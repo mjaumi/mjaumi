@@ -89,3 +89,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjaumi&" alt="mjaumi" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaumi&show_icons=true&theme=radical)
