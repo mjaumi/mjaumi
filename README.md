@@ -80,10 +80,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjaumi" alt="mjaumi" /></a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaumi&show_icons=true&theme=merko)
+![mjaumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaumi&show_icons=true&theme=merko)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjaumi&show_icons=true&locale=en&layout=compact" alt="mjaumi" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjaumi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjaumi&" alt="mjaumi" /></p>
