@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **mjaumi2864@gmail.com**
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mjaumi&label=Profile%20views&color=0e75b6&style=flat" alt="mjaumi" /> 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/milhan-joardar-aumi-667b651b1/" target="blank">
@@ -74,10 +78,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>  
-</p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mjaumi&label=Profile%20views&color=0e75b6&style=flat" alt="mjaumi" /> 
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mjaumi&theme=onestar&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
