@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Milhan Joardar Aumi</h1>
-<hr>
 <h3 align="center">🏡 I'm an enthusiastic frontend developer from Dhaka, Bangladesh.</h3>
 
 - 🎓 I’m currently studying Computer Science & Engineering at **Ahsanullah University of Science & Technology**
