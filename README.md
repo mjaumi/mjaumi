@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **mjaumi2864@gmail.com**
 
-<p align="left"> 
+<h2 align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mjaumi&label=Profile%20views&color=0e75b6&style=flat" alt="mjaumi" /> 
-</p>
+</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
