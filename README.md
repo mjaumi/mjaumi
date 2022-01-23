@@ -78,7 +78,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjaumi&label=Profile%20views&color=0e75b6&style=flat" alt="mjaumi" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mjaumi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mjaumi&no-frame=true)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
 
 ![mjaumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjaumi&show_icons=true&theme=merko)
 
