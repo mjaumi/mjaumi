@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Milhan Joardar Aumi</h1>
 <h3 align="center">🏡 I'm an enthusiastic frontend developer from Dhaka, Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjaumi&label=Profile%20views&color=0e75b6&style=flat" alt="mjaumi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjaumi" alt="mjaumi" /></a> </p>
-
 - 🎓 I’m currently studying Computer Science & Engineering at **Ahsanullah University of Science & Technology**
 
 - 🌱 I’m currently learning **Web Development, MERN Stack Development, Database Management**
 
 - 📫 How to reach me **mjaumi2864@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjaumi&label=Profile%20views&color=0e75b6&style=flat" alt="mjaumi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjaumi" alt="mjaumi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
