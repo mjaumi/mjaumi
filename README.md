@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milhan Joardar Aumi</h1>
 <h3 align="center">🏡 I'm an enthusiastic MERN stack developer from Dhaka, Bangladesh.</h3>
 
-- 🎓 I’m currently studying Computer Science & Engineering at **Ahsanullah University of Science & Technology**
+- 🎓 I’m a fresh graduate of Computer Science & Engineering at **Ahsanullah University of Science & Technology**
 
 - 🌱 I’m interested in **Web Development, MERN Stack Development, Frontend Development etc.**
 
