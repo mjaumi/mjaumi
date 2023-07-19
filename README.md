@@ -73,12 +73,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mjaumi&theme=onestar&margin-w=15&margin-h=15&column=8" alt="MJ Aumi's GitHub Profile Trophy"/>
 </p>
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjaumi&theme=merko" alt="MJ Aumi's GitHub Streaks"/>
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mjaumi&show_icons=true&theme=merko" alt="MJ Aumi's GitHub Stats"/>
+</p>
+<p align="center">
   <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjaumi&layout=donut&show_icons=true&theme=merko" alt="MJ Aumi's Top Used Languages"/>
 </p>
-<p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mjaumi&show_icons=true&theme=merko" alt="MJ Aumi's GitHub Stats"/>
-</p>
-<p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mjaumi&theme=merko" alt="MJ Aumi's GitHub Streaks"/>
-</p>
-
