@@ -6,7 +6,11 @@
 
 - 🎓 I’m a fresh graduate of Computer Science & Engineering from **Ahsanullah University of Science & Technology**
 
-- 🌱 I’m interested in **Web Development, MERN Stack Development, Frontend Development etc.**
+- 💬 Ask me about **Web Development, MERN Stack Development, Front-end Development etc.**
+
+- 👨‍💻 All of my projects are available at [Here](https://portfolio-milhan-joardar-aumi.vercel.app).
+
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1BF9SeUzITz-eiOUtQB_iZfq6DGCQ4Z86/view?usp=sharing).
 
 - 📫 How to reach me **mjaumi2864@gmail.com**
 
@@ -36,6 +40,7 @@
 <h3 align="left">Frontend Development Expertise:</h3>
 <p align="left">
   <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a></code>
+  <code><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a></code>
   <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40"/></a></code>
   <code><a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS 3" width="40" height="40"/></a></code>
   <code><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a></code>
