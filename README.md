@@ -5,6 +5,8 @@
 <h3 align="center">🏡 I'm an enthusiastic MERN stack developer from Dhaka, Bangladesh.</h3>
 
 - 🎓 I’m a fresh graduate of Computer Science & Engineering from **Ahsanullah University of Science & Technology**
+  
+- 🌱 I’m currently learning **GraphQL, Socket.IO & Docker**
 
 - 💬 Ask me about **Web Development, MERN Stack Development, Front-end Development etc.**
 
@@ -39,6 +41,7 @@
 
 <h3 align="left">Frontend Development Expertise:</h3>
 <p align="left">
+  <code><a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a></code>
   <code><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a></code>
   <code><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a></code>
   <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40"/></a></code>
@@ -70,6 +73,7 @@
 <h3 align="left">Other Expertise:</h3>  
 <p align="left">
   <code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></code>
+  <code><a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></code>
 </p>
 
 <hr>
