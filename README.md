@@ -6,7 +6,7 @@
 
 - 🎓 I’m a fresh graduate of Computer Science & Engineering from **Ahsanullah University of Science & Technology**
   
-- 🌱 I’m currently learning **GraphQL, Socket.IO & Docker**
+- 🌱 I’m currently learning **GraphQL, Socket.IO, NextAuth.js** etc.
 
 - 💬 Ask me about **Web Development, MERN Stack Development, Front-end Development etc.**
 
