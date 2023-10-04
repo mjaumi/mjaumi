@@ -79,7 +79,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mjaumi&theme=onestar&margin-w=15&margin-h=15&column=8" alt="MJ Aumi's GitHub Profile Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mjaumi&theme=onestar&margin-w=15&margin-h=15&column=9" alt="MJ Aumi's GitHub Profile Trophy"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjaumi&theme=merko" alt="MJ Aumi's GitHub Streaks"/>
