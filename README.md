@@ -2,13 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
-<h3 align="center">🏡 I'm an enthusiastic MERN stack developer from Dhaka, Bangladesh.</h3>
+<h3 align="center">🏡 I'm an enthusiastic Software Engineer from Dhaka, Bangladesh.</h3>
 
-- 🎓 I’m a fresh graduate of Computer Science & Engineering from **Ahsanullah University of Science & Technology**
+- 🎓 I’ve completed my graduation on Computer Science & Engineering from **Ahsanullah University of Science & Technology**
   
-- 🌱 I’m currently learning **GraphQL, Socket.IO, NextAuth.js** etc.
+- 🌱 I’m currently learning **Python, Django, DRF, FastAPI, PostgreSQL** etc.
 
-- 💬 Ask me about **Web Development, MERN Stack Development, Front-end Development etc.**
+- 💬 Ask me about **Web Development, MERN Stack Development, Front-end Development, Full Stack Development etc.**
 
 - 👨‍💻 All of my projects are available at [Here](https://portfolio-milhan-joardar-aumi.vercel.app).
 
